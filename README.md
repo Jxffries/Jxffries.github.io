@@ -1,3 +1,3 @@
 # Jxffries.github.io
 
-Public website for Clips: privacy policy, terms and data deletion pages.
+Public website for Encore: privacy policy, terms and data deletion pages.
